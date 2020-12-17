@@ -1,10 +1,15 @@
 ### Hi, I'm Matt! 👋
 
-Chartered Accountant with 8 years senior finance experience >>> Full Stack Software Developer.
+Full Stack Software Developer with 8 years experience in the finance industry.
 
 Focused on Javascript technologies (React, React Native, Redux, Angular, Typescript, Node - Express & Koa, GraphQL, SQL and NoSQL databases).
 
 In my spare time I love developing apps, learning new technologies, yoga, running and reading.
+
+Looking to leverage my software skills and management/accounting experience to add value as a front end, mobile or full stack engineer.
+
+Check out my LinkedIn page to see my experience: www.linkedin.com/in/matthaddon
+
 
 ### My Latest Projects:
 
