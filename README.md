@@ -1,5 +1,7 @@
 ### Hi, I'm Matt! 👋
 
+<img align="right" width='500' src='./matt2.png' />
+
 Full Stack Software Developer with 8 years experience in the finance industry.
 
 Focused on Javascript technologies (React, React Native, Redux, Angular, Typescript, Node - Express & Koa, GraphQL, SQL and NoSQL databases).
