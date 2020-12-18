@@ -10,6 +10,11 @@ Looking to leverage my software skills and management/accounting experience to a
 
 Check out my LinkedIn page to see my experience: www.linkedin.com/in/matthaddon
 
+### ⚒ Technologies
+<img width='30px' src='./React.png'/> &nbsp; <img width='30px' src='./Typescript.png'/> &nbsp; <img width='30px' src='./Jest.png'/> &nbsp; <img width='30px' src='./GraphQL.png'/> &nbsp; <img width='30px' src='./Postgres.png'/> &nbsp; <img width='30px' src='./Git.png'/>
+
+
+
 
 ### My Latest Projects:
 
