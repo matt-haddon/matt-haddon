@@ -22,7 +22,7 @@ Check out my LinkedIn page to see my experience: www.linkedin.com/in/matthaddon
 
 🏡 [DreamHome](https://github.com/matt-haddon/dream-home) - Find your DreamHome, anywhere in the UK. Enter your budget and preferences and the app will let you know where you can afford to live. Solo project, made in six days.
 
-🛒 [Bid Local](https://github.com/Snugles/bid-local) - Auction site focused on local listings. Group project made in two weeks in a team of 5.
+🛒 [Bid Local](https://github.com/Snugles/bid-local) - Auction site focused on local listings. 
 
 Find me at:
 
