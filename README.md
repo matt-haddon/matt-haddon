@@ -7,7 +7,7 @@ Focused on Javascript technologies (React, React Native, Typescript, Node - Expr
 Check out my LinkedIn page to see my experience: www.linkedin.com/in/matthaddon
 
 ### ⚒ Technologies
-<img width='30px' src='./React.png'/> &nbsp; <img width='30px' src='./redux.svg'/> &nbsp;  <img width='30px' src='./Typescript.png'/> &nbsp; <img width='30px' src='./Jest.png'/> &nbsp; <img width='30px' src='./GraphQL.png'/> &nbsp; <img width='30px' src='https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg'/> &nbsp; <img width='30px' src='./Postgres.png'/> &nbsp; <img width='35px' src='./mongodb.png'/> &nbsp; <img width='30px' src='./Git.png'/> 
+<img width='30px' src='./React.png'/> &nbsp;  <img width='30px' src='./Typescript.png'/> &nbsp; <img width='30px' src='./Jest.png'/> &nbsp; <img width='30px' src='./GraphQL.png'/> &nbsp; <img width='30px' src='https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg'/> &nbsp; <img width='30px' src='./Postgres.png'/> &nbsp; <img width='35px' src='./mongodb.png'/> &nbsp; <img width='30px' src='./Git.png'/> 
 
 Find me at:
 
