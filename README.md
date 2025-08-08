@@ -8,9 +8,9 @@
 TypeScript | JavaScript | Python | React.js | Next.js | React Native | Node.js | GraphQL | REST | PostgreSQL | AWS | Docker
 
 ## 📌 Featured Projects
-- **[DreamHome]** – React Native app that helps users find affordable homes based on budget and preferences.  
-- **[GX Manager]** – AI-driven page generator built in Next.js, delivered under a 2-month deadline.  
-- **[Bippit Financial Planner]** – Tools to help employees improve financial wellbeing.
+- **DreamHome** – React Native app that helps users find affordable homes based on budget and preferences.  
+- **GX Manager** – AI-driven page generator built in Next.js, delivered under a 2-month deadline.  
+- **Bippit Financial Planner** – Tools to help employees improve financial wellbeing.
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/matthaddon) | [Email](mailto:matthaddon5@gmail.com)
