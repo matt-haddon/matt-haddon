@@ -5,7 +5,7 @@
 📍 Based in London, UK | Open to hybrid and remote opportunities.
 
 ## 🔧 Technologies
-TypeScript | JavaScript | React.js | Next.js | React Native | Node.js | GraphQL | REST | PostgreSQL | AWS | Docker
+TypeScript | JavaScript | Python | React.js | Next.js | React Native | Node.js | GraphQL | REST | PostgreSQL | AWS | Docker
 
 ## 📌 Featured Projects
 - **[DreamHome](#)** – React Native app that helps users find affordable homes based on budget and preferences.  
