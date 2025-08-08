@@ -1,19 +1,20 @@
-### Hi, I'm Matt! 👋
+# Hi, I'm Matt 👋
 
-Full Stack Software Developer with 8 years experience in the finance industry.
+🚀 Full Stack Software Engineer specialising in JavaScript and TypeScript (React, Next.js, React Native, Node.js, GraphQL, REST APIs, PostgreSQL, AWS).  
+💼 Former Chartered Accountant (ACA) with a strong track record in fintech, SaaS, and product development.  
+📍 Based in London, UK | Open to hybrid and remote opportunities.
 
-Focused on Javascript technologies (React, React Native, Typescript, Node - Express, REST, GraphQL, SQL and NoSQL databases).
+## 🔧 Technologies
+TypeScript | JavaScript | React.js | Next.js | React Native | Node.js | GraphQL | REST | PostgreSQL | AWS | Docker
 
-Check out my LinkedIn page to see my experience: www.linkedin.com/in/matthaddon
+## 📌 Featured Projects
+- **[DreamHome](#)** – React Native app that helps users find affordable homes based on budget and preferences.  
+- **[GX Manager](#)** – AI-driven page generator built in Next.js, delivered under a 2-month deadline.  
+- **[Bippit Financial Planner](#)** – Tools to help employees improve financial wellbeing.
 
-### ⚒ Technologies
-<img width='30px' src='./React.png'/> &nbsp;  <img width='30px' src='./Typescript.png'/> &nbsp; <img width='30px' src='./Jest.png'/> &nbsp; <img width='30px' src='./GraphQL.png'/> &nbsp; <img width='30px' src='https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg'/> &nbsp; <img width='30px' src='./Postgres.png'/> &nbsp; <img width='35px' src='./mongodb.png'/> &nbsp; <img width='30px' src='./Git.png'/> 
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/matthaddon) | [Email](mailto:matthaddon5@gmail.com)
 
-Find me at:
-
-📝 [LinkedIn](https://www.linkedin.com/in/matthaddon/)
-
-📨 matthaddon5@gmail.com
 
 
 <!--
