@@ -1,6 +1,8 @@
 # Hi, I'm Matt 👋
 
-🚀 Full Stack Software Engineer specialising in JavaScript and TypeScript (React, Next.js, React Native, Node.js, GraphQL, REST APIs, PostgreSQL, AWS).  
+🚀 Full Stack Software Engineer with 4+ years in JavaScript/TypeScript and Python development and 8+ years in finance. 
+🛠️ Experienced in React, React Native, Node.js, GraphQL, REST, PostgreSQL, and AWS. 
+💻 Passionate about building scalable web/mobile applications and solving complex technical problems.  
 💼 Former Chartered Accountant (ACA) with a strong track record in fintech, SaaS, and product development.  
 📍 Based in London, UK | Open to hybrid and remote opportunities.
 
