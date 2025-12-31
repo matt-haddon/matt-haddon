@@ -1,74 +1,53 @@
 # Hi, I'm Matt 👋
 
-🚀 Software Engineer with 8+ years of professional experience, including 4+ years building reliable, production-grade systems with a focus on observability, infrastructure, and operational excellence.
+**Senior Python Backend Engineer** building production-grade systems with Django, PostgreSQL, and AWS.
 
-## 🛠️ Core expertise
+## 🚀 About Me
 
-Python | TypeScript | PostgreSQL | Redis | AWS | Docker | CI/CD | Observability (Sentry, Prometheus, Grafana)
+Software engineer with **4+ years building scalable backend systems**, focusing on RESTful APIs, microservices architecture, and cloud infrastructure. Former Chartered Accountant (ACA) bringing analytical rigor and systems thinking to software engineering.
 
-## 💡 What I care about
+Currently seeking **Senior Python Backend Engineer roles in London (£85-95k)**.
 
-Building scalable systems, implementing comprehensive monitoring, establishing CI/CD pipelines, and enabling engineering teams to ship with confidence. Former Chartered Accountant bringing analytical rigor and systems thinking to software engineering.
+## 🛠️ Core Skills
 
-## 🎯 Currently
+**Backend Development:** Python • Django • Django REST Framework • RESTful APIs • Microservices  
+**Databases:** PostgreSQL • MySQL • Redis • Query optimization • Schema design  
+**Cloud & Infrastructure:** AWS (ECS, RDS, Lambda, VPC, S3) • Docker • Terraform • CI/CD  
+**Testing & Quality:** pytest • unittest • 95%+ test coverage • TDD  
+**Observability:** Sentry • Prometheus • Grafana • Structured logging  
+**Additional:** TypeScript • Node.js • GraphQL • React
 
-Exploring Platform Engineering and Site Reliability Engineering roles, deepening expertise in Kubernetes, Infrastructure as Code (Terraform), and large-scale distributed systems.
+## 💡 What I Build
 
-📍 Based in London, UK | Open to hybrid opportunities
-
-## 🔧 Technical Skills
-
-**Languages & Frameworks**
-Python | TypeScript | JavaScript (ES6+) | Node.js | Django | React | Next.js | React Native
-
-**Infrastructure & DevOps**
-Docker | AWS (EC2, S3, Lambda, RDS) | CI/CD (GitHub Actions, CircleCI) | Heroku | Containerized deployments
-
-**Observability & Monitoring**
-Sentry | Prometheus | Grafana | Metabase | Structured logging | Error tracking | Performance monitoring
-
-**Databases**
-PostgreSQL | Redis | Database optimization
-
-**APIs & Architecture**
-REST APIs | GraphQL | Microservices | Event-driven architecture
+- Scalable REST APIs and backend services with Django
+- Production-ready systems with comprehensive testing and monitoring
+- Cloud infrastructure with AWS, Docker, and Infrastructure as Code
+- Microservices architectures with proper observability
 
 ## 📌 Featured Projects
 
-🏗️ **Microservices Backend with Observability Stack**
+### 🏗️ [Portfolio Tracker API](link-to-repo)
+Production-deployed REST API demonstrating modern Python backend development:
+- **Security:** Multi-tenant isolation, JWT authentication, HTTPS enforcement
+- **Quality:** 95%+ pytest coverage, type annotations, comprehensive validation
+- **Infrastructure:** AWS deployment (ECS, RDS, ALB) with Terraform IaC
+- **Observability:** Structured logging, CloudWatch metrics, alerting
+- **Tech:** Python, Django REST Framework, PostgreSQL, Docker, AWS, Terraform
 
-Python-based microservices architecture with comprehensive monitoring (Sentry, Prometheus), Docker containerization, and automated CI/CD pipelines. Implemented structured logging, request validation, and performance dashboards for production visibility.
-Tech: Python, Django REST Framework, Docker, GitHub Actions, Sentry, Prometheus
+### 🔧 [Other Project Name](link)
+Brief description highlighting Python/backend skills
+- Tech: Python, Django, PostgreSQL, etc.
 
-## 🌱 Currently Learning
+## 🎯 Currently
 
-**Kubernetes/K8s** – Container orchestration and platform engineering
-
-**Terraform** – Infrastructure as Code for cloud automation
-
-**Go** – Systems programming and platform tooling
-
-**SRE Practices** – SLIs/SLOs, error budgets, incident management
+- Seeking **Senior Python Backend Engineer** roles
+- Building production systems with Django and AWS
+- Exploring platform engineering concepts (Kubernetes, advanced Terraform)
+- Open to immediate start in London (hybrid-friendly)
 
 ## 📫 Let's Connect
 
-[LinkedIn](linkedin.com/in/matthaddon)
-[Email](matthaddon5@gmail.com)
-Location - London, UK
-
-
-<!--
-**matt-haddon/matt-haddon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Location:** London, UK  
+💼 **LinkedIn:** [linkedin.com/in/matthaddon](link)  
+✉️ **Email:** matthaddon5@gmail.com  
+🔓 **Status:** Open to opportunities
