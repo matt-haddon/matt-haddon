@@ -2,7 +2,9 @@
 
 🚀 Software Engineer with 8+ years of professional experience, including 4+ years building reliable, production-grade systems with a focus on observability, infrastructure, and operational excellence.
 
-🛠️ Core expertise: Python | TypeScript | PostgreSQL | Redis | AWS | Docker | CI/CD | Observability (Sentry, Prometheus, Grafana)
+🛠️ ##Core expertise
+
+Python | TypeScript | PostgreSQL | Redis | AWS | Docker | CI/CD | Observability (Sentry, Prometheus, Grafana)
 
 💡 What I care about: Building scalable systems, implementing comprehensive monitoring, establishing CI/CD pipelines, and enabling engineering teams to ship with confidence. Former Chartered Accountant bringing analytical rigor and systems thinking to software engineering.
 
