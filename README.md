@@ -1,10 +1,12 @@
 # Hi, I'm Matt 👋
 
 🚀 Software Engineer with 8+ years of professional experience, including 4+ years building reliable, production-grade systems with a focus on observability, infrastructure, and operational excellence.
+
 🛠️ Core expertise: Python | TypeScript | PostgreSQL | Redis | AWS | Docker | CI/CD | Observability (Sentry, Prometheus, Grafana)
+
 💡 What I care about: Building scalable systems, implementing comprehensive monitoring, establishing CI/CD pipelines, and enabling engineering teams to ship with confidence. Former Chartered Accountant bringing analytical rigor and systems thinking to software engineering.
+
 🎯 Currently: Exploring Platform Engineering and Site Reliability Engineering roles, deepening expertise in Kubernetes, Infrastructure as Code (Terraform), and large-scale distributed systems.
-📍 Based in London, UK | Open to hybrid opportunities
 
 📍 Based in London, UK | Open to hybrid opportunities
 
