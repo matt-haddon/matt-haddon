@@ -2,21 +2,21 @@
 
 🚀 Software Engineer with 8+ years of professional experience, including 4+ years building reliable, production-grade systems with a focus on observability, infrastructure, and operational excellence.
 
-🛠️ **Core expertise**
+## 🛠️ Core expertise
 
 Python | TypeScript | PostgreSQL | Redis | AWS | Docker | CI/CD | Observability (Sentry, Prometheus, Grafana)
 
-💡 **What I care about**
+## 💡 What I care about
 
 Building scalable systems, implementing comprehensive monitoring, establishing CI/CD pipelines, and enabling engineering teams to ship with confidence. Former Chartered Accountant bringing analytical rigor and systems thinking to software engineering.
 
-🎯 **Currently**
+## 🎯 Currently
 
 Exploring Platform Engineering and Site Reliability Engineering roles, deepening expertise in Kubernetes, Infrastructure as Code (Terraform), and large-scale distributed systems.
 
 📍 Based in London, UK | Open to hybrid opportunities
 
-🔧 **Technical Skills**
+## 🔧 Technical Skills**
 
 **Languages & Frameworks**
 Python | TypeScript | JavaScript (ES6+) | Node.js | Django | React | Next.js | React Native
@@ -33,20 +33,21 @@ PostgreSQL | Redis | Database optimization
 **APIs & Architecture**
 REST APIs | GraphQL | Microservices | Event-driven architecture
 
-📌 **Featured Projects**
+## 📌 Featured Projects
 
-🏗️ *Microservices Backend with Observability Stack*
+🏗️ **Microservices Backend with Observability Stack**
+
 Python-based microservices architecture with comprehensive monitoring (Sentry, Prometheus), Docker containerization, and automated CI/CD pipelines. Implemented structured logging, request validation, and performance dashboards for production visibility.
 Tech: Python, Django REST Framework, Docker, GitHub Actions, Sentry, Prometheus
 
-🌱 **Currently Learning**
+## 🌱 Currently Learning
 
 Kubernetes/K8s – Container orchestration and platform engineering
 Terraform – Infrastructure as Code for cloud automation
 Go – Systems programming and platform tooling
 SRE Practices – SLIs/SLOs, error budgets, incident management
 
-📫 **Let's Connect**
+## 📫 Let's Connect
 
 [LinkedIn](linkedin.com/in/matthaddon)
 [Email](matthaddon5@gmail.com)
