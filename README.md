@@ -11,18 +11,24 @@
 📍 Based in London, UK | Open to hybrid opportunities
 
 🔧 Technical Skills
+
 Languages & Frameworks
 Python | TypeScript | JavaScript (ES6+) | Node.js | Django | React | Next.js | React Native
+
 Infrastructure & DevOps
 Docker | AWS (EC2, S3, Lambda, RDS) | CI/CD (GitHub Actions, CircleCI) | Heroku | Containerized deployments
+
 Observability & Monitoring
 Sentry | Prometheus | Grafana | Metabase | Structured logging | Error tracking | Performance monitoring
+
 Databases
 PostgreSQL | Redis | Database optimization
+
 APIs & Architecture
 REST APIs | GraphQL | Microservices | Event-driven architecture
 
 📌 Featured Projects
+
 🏗️ Microservices Backend with Observability Stack
 Python-based microservices architecture with comprehensive monitoring (Sentry, Prometheus), Docker containerization, and automated CI/CD pipelines. Implemented structured logging, request validation, and performance dashboards for production visibility.
 Tech: Python, Django REST Framework, Docker, GitHub Actions, Sentry, Prometheus
