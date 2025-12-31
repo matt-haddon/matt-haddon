@@ -6,7 +6,7 @@
 
 Software engineer with **4+ years building scalable backend systems**, focusing on RESTful APIs, microservices architecture, and cloud infrastructure. Former Chartered Accountant (ACA) bringing analytical rigor and systems thinking to software engineering.
 
-Currently seeking **Senior Python Backend Engineer roles in London (£85-95k)**.
+Currently seeking **Senior Python Backend Engineer roles in London**.
 
 ## 🛠️ Core Skills
 
