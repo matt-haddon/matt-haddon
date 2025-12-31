@@ -42,10 +42,13 @@ Tech: Python, Django REST Framework, Docker, GitHub Actions, Sentry, Prometheus
 
 ## 🌱 Currently Learning
 
-Kubernetes/K8s – Container orchestration and platform engineering
-Terraform – Infrastructure as Code for cloud automation
-Go – Systems programming and platform tooling
-SRE Practices – SLIs/SLOs, error budgets, incident management
+**Kubernetes/K8s** – Container orchestration and platform engineering
+
+**Terraform** – Infrastructure as Code for cloud automation
+
+**Go** – Systems programming and platform tooling
+
+**SRE Practices** – SLIs/SLOs, error budgets, incident management
 
 ## 📫 Let's Connect
 
