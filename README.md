@@ -26,17 +26,13 @@ Currently seeking **Senior Python Backend Engineer roles in London (£85-95k)**.
 
 ## 📌 Featured Projects
 
-### 🏗️ [Portfolio Tracker API](link-to-repo)
+### 🏗️ [Portfolio Tracker API](https://github.com/matt-haddon/portfolio-tracker-api)
 Production-deployed REST API demonstrating modern Python backend development:
 - **Security:** Multi-tenant isolation, JWT authentication, HTTPS enforcement
 - **Quality:** 95%+ pytest coverage, type annotations, comprehensive validation
 - **Infrastructure:** AWS deployment (ECS, RDS, ALB) with Terraform IaC
 - **Observability:** Structured logging, CloudWatch metrics, alerting
 - **Tech:** Python, Django REST Framework, PostgreSQL, Docker, AWS, Terraform
-
-### 🔧 [Other Project Name](link)
-Brief description highlighting Python/backend skills
-- Tech: Python, Django, PostgreSQL, etc.
 
 ## 🎯 Currently
 
