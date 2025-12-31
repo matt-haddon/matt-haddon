@@ -45,4 +45,4 @@ Production-deployed REST API demonstrating modern Python backend development:
 
 📍 **Location:** London, UK  
 💼 **LinkedIn:** [linkedin.com/in/matthaddon](link)  
-🔓 **Status:** Open to opportunities
+🔓 **Status:** Open to Senior Python Backend Engineer opportunities - reach out via LinkedIn!
