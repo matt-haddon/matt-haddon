@@ -16,7 +16,7 @@ Exploring Platform Engineering and Site Reliability Engineering roles, deepening
 
 📍 Based in London, UK | Open to hybrid opportunities
 
-## 🔧 Technical Skills**
+## 🔧 Technical Skills
 
 **Languages & Frameworks**
 Python | TypeScript | JavaScript (ES6+) | Node.js | Django | React | Next.js | React Native
