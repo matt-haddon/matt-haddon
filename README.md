@@ -18,19 +18,19 @@ Exploring Platform Engineering and Site Reliability Engineering roles, deepening
 
 🔧 **Technical Skills**
 
-# Languages & Frameworks*
+**Languages & Frameworks**
 Python | TypeScript | JavaScript (ES6+) | Node.js | Django | React | Next.js | React Native
 
-# Infrastructure & DevOps*
+**Infrastructure & DevOps**
 Docker | AWS (EC2, S3, Lambda, RDS) | CI/CD (GitHub Actions, CircleCI) | Heroku | Containerized deployments
 
-# Observability & Monitoring
+**Observability & Monitoring**
 Sentry | Prometheus | Grafana | Metabase | Structured logging | Error tracking | Performance monitoring
 
-# Databases
+**Databases**
 PostgreSQL | Redis | Database optimization
 
-# APIs & Architecture
+**APIs & Architecture**
 REST APIs | GraphQL | Microservices | Event-driven architecture
 
 📌 **Featured Projects**
