@@ -54,7 +54,7 @@ Tech: Python, Django REST Framework, Docker, GitHub Actions, Sentry, Prometheus
 
 [LinkedIn](linkedin.com/in/matthaddon)
 [Email](matthaddon5@gmail.com)
-[Location](London, UK)
+Location - London, UK
 
 
 <!--
