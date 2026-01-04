@@ -15,7 +15,6 @@ Currently seeking **Senior Python Backend Engineer roles in London**.
 **Cloud & Infrastructure:** AWS (ECS, RDS, Lambda, VPC, S3) • Docker • Terraform • CI/CD  
 **Testing & Quality:** pytest • unittest • 95%+ test coverage • TDD  
 **Observability:** Sentry • Prometheus • Grafana • Structured logging  
-**Additional:** TypeScript • Node.js • GraphQL • React
 
 ## 💡 What I Build
 
@@ -36,10 +35,10 @@ Production-deployed REST API demonstrating modern Python backend development:
 
 ## 🎯 Currently
 
-- Seeking **Senior Python Backend Engineer** roles
-- Building production systems with Django and AWS
-- Exploring platform engineering concepts (Kubernetes, advanced Terraform)
-- Open to immediate start in London (hybrid-friendly)
+- Seeking Senior Python Backend Engineer roles in London
+- Building production systems with Django, PostgreSQL, and AWS
+- Open to immediate start
+- Learning container orchestration and infrastructure automation (Kubernetes, Terraform)
 
 ## 📫 Let's Connect
 
