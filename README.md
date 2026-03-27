@@ -1,12 +1,12 @@
 # Hi, I'm Matt 👋
 
-**Senior Python Backend Engineer** building production-grade systems with Django, PostgreSQL, and AWS.
+**Python Backend Engineer** building production-grade systems with Django, PostgreSQL, and AWS.
 
 ## 🚀 About Me
 
 Software engineer with **4+ years building scalable backend systems**, focusing on RESTful APIs, microservices architecture, and cloud infrastructure. Former Chartered Accountant (ACA) bringing analytical rigor and systems thinking to software engineering.
 
-Currently seeking **Senior Python Backend Engineer roles in London**.
+Currently seeking **Backend or Platform/Infrastructure Engineering roles in London**.
 
 ## 🛠️ Core Skills
 
@@ -35,7 +35,7 @@ Production-deployed REST API demonstrating modern Python backend development:
 
 ## 🎯 Currently
 
-- Seeking Senior Python Backend Engineer roles in London
+- Seeking Backend or Platform/Infrastructure Engineering roles in London
 - Building production systems with Django, PostgreSQL, and AWS
 - Open to immediate start
 - Learning container orchestration and infrastructure automation (Kubernetes, Terraform)
@@ -44,4 +44,4 @@ Production-deployed REST API demonstrating modern Python backend development:
 
 📍 **Location:** London, UK  
 💼 **LinkedIn:** [linkedin.com/in/matthaddon](link)  
-🔓 **Status:** Open to Senior Python Backend Engineer opportunities - reach out via LinkedIn!
+🔓 **Status:** Open to Backend or Platform/Infrastructure Engineer opportunities - reach out via LinkedIn!
